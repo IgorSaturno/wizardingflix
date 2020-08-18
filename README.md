@@ -1,3 +1,3 @@
 # wizardingflix
-Sobre Harry Potter
+Minha netflix Harry Potter </br>
 Ultilizando conhecimento adquirido na imersão react da Alura
