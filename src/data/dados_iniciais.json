@@ -3,6 +3,7 @@
     {
       "titulo": "Filmes HP",
       "link": "https://www.youtube.com/channel/UClgRkhTL3_hImCAmdLfDE4g",
+      "cor": "#000",
       "link_extra": {
         "text": "Onde Assistir",
         "url": "https://www.youtube.com/channel/UClgRkhTL3_hImCAmdLfDE4g"
@@ -48,6 +49,7 @@
     },
     {
       "titulo": "Filmes FB e Notícias",
+      "cor": "#000",
       "link_extra": {
         "text": "Onde posso assistir",
         "url": "https://www.alura.com.br/cursos-online-programacao"
@@ -65,6 +67,7 @@
     },
     {
       "titulo": "Youtube",
+      "cor": "#000",
       "videos": [
         {
           "titulo": "HOGWARTS: UMA HISTÓRIA - GODRIC GRYFFINDOR",
@@ -110,6 +113,7 @@
     },
     {
       "titulo": "Filmes",
+      "cor": "#000",
       "videos": [
         {
           "titulo": "Interestellar",
@@ -131,10 +135,7 @@
     },
     {
       "titulo": "Games",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
+      "cor": "#000",
       "videos": [
         {
           "titulo": "Final Fantasy 7",

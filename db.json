@@ -3,7 +3,7 @@
     {
       "id": 1,
       "titulo": "Filmes HP",
-      
+      "cor": "#000",
       "link_extra": {
         "text": "Onde Assistir",
         "url": "https://www.youtube.com/channel/UClgRkhTL3_hImCAmdLfDE4g"
@@ -12,6 +12,7 @@
     {
       "id": 2,
       "titulo": "Filmes FB e Notícias",
+      "cor": "#000",
       "link_extra": {
         "text": "Onde posso assistir",
         "url": "https://www.youtube.com/channel/UClgRkhTL3_hImCAmdLfDE4g"
@@ -20,7 +21,7 @@
     {
       "id": 3,
       "titulo": "Youtube",
-      
+      "cor": "#000",
       "link_extra": {
         "text": "Videos sobre Harry Potter",
         "url": "/"
@@ -29,16 +30,12 @@
     {
       "id": 4,
       "titulo": "Filmes",
-      "cor": "orange"
+      "cor": "#000"
     },
     {
       "id": 5,
       "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      }
+      "cor": "#000"
     }
   ],
   "videos": [
