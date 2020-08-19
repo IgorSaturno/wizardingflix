@@ -3,7 +3,6 @@
     {
       "titulo": "Filmes HP",
       "link": "https://www.youtube.com/channel/UClgRkhTL3_hImCAmdLfDE4g",
-      "cor": "#2A7AE4",
       "link_extra": {
         "text": "Onde Assistir",
         "url": "https://www.youtube.com/channel/UClgRkhTL3_hImCAmdLfDE4g"
@@ -48,8 +47,7 @@
       ]
     },
     {
-      "titulo": "Filmes FB",
-      "cor": "#00CED1",
+      "titulo": "Filmes FB e Notícias",
       "link_extra": {
         "text": "Onde posso assistir",
         "url": "https://www.alura.com.br/cursos-online-programacao"
@@ -67,11 +65,6 @@
     },
     {
       "titulo": "Youtube",
-      "cor": "#c00",
-      "link_extra": {
-        "text": "Videos sobre Harry Potter",
-        "url": "/"
-      },
       "videos": [
         {
           "titulo": "HOGWARTS: UMA HISTÓRIA - GODRIC GRYFFINDOR",
@@ -88,12 +81,35 @@
         {
           "titulo": "HOGWARTS: UMA HISTÓRIA - ROWENA RAVENCLAW",
           "url": "https://youtu.be/PuKugUvx4f0"
+        },
+        {
+          "titulo": "OS MAROTOS | A História",
+          "url": "https://youtu.be/QABDKT4m26w"
+        },
+        {
+          "titulo": "RÚBEO HAGRID | Biografia",
+          "url": "https://youtu.be/H_v7tESNiDM"
+        },
+        {
+          "titulo": "NEVILLE LONGBOTTOM | Biografia",
+          "url": "https://youtu.be/l2ckt2P_ai8"
+        },
+        {
+          "titulo": "VOLDEMORT | Biografia",
+          "url": "https://youtu.be/R2OD4YDUbbo"
+        },
+        {
+          "titulo": "ALVO DUMBLEDORE | Biografia",
+          "url": "https://youtu.be/HAUHcfC0AKw"
+        },
+        {
+          "titulo": "SEVERO SNAPE | Biografia",
+          "url": "https://youtu.be/01r7q3jkqvU"
         }
       ]
     },
     {
       "titulo": "Filmes",
-      "cor": "orange",
       "videos": [
         {
           "titulo": "Interestellar",
@@ -115,7 +131,6 @@
     },
     {
       "titulo": "Games",
-      "cor": "red",
       "link_extra": {
         "text": "Formação de Jogos na Alura",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
@@ -136,40 +151,6 @@
         {
           "titulo": "Resident Evil 8",
           "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-        }
-      ]
-    },
-    {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
-      "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-        },
-        {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
         }
       ]
     }

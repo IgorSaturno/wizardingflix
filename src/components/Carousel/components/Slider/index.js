@@ -23,7 +23,7 @@ const Container = styled.ul`
     left: 0;
   }
   .slick-next {
-    right: 16px;
+    right: 10px;
   }
 `;
 
@@ -42,7 +42,7 @@ const Slider = ({ children }) => (
   <Container>
     <SlickSlider {...{
       dots: false,
-      infinite: false,
+      infinite: false, //false resolve o problema de video infinito
       speed: 300,
       centerMode: false,
       variableWidth: true,
